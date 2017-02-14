@@ -1,3 +1,5 @@
+//This is a plain text version of the project.
+
 package lessons;
 import java.util.regex.*;
 import java.awt.*;
@@ -66,7 +68,7 @@ public class BasicCalculator extends JFrame{
 		bmultiply=createButton(bmultiply, "*");
 		bdivide=createButton(bdivide, "/");
 		bequal=createButton(bequal, "=");
-		bsquare=createButton(bsquare, "x²");
+		bsquare=createButton(bsquare, "xÂ²");
 		bexponent=createButton(bexponent, "exp");
 		broot=createButton(broot, "sqrt");
 		bdecimal=createButton(bdecimal, ".");
